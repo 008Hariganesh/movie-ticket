@@ -4,13 +4,13 @@
   }
   body {
     font-size: 120%;
-    background: #b048;
+    background:cadetblue;
   }
   .header {
     width: 30%;
     margin: 0px auto 0px;
     color: skyblue;
-    background: rgba(0, 255, 195, 0.918);
+    background: lightcyan;
     text-align: center;
     border: 5px solid #b0c4de;  
     border-bottom: none;
@@ -46,7 +46,7 @@
     padding: 10px;
     font-size: 15px;
     color: black;
-    background: green;
+    background: white;
     border: none;
     border-radius: 100px;
   }
